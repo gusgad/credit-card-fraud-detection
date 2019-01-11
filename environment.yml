@@ -1,0 +1,17 @@
+name: credit-card-fraud-detection
+channels:
+    - https://conda.anaconda.org/menpo
+dependencies:
+    - python==3.5
+    - scipy
+    - numpy
+    - matplotlib
+    - seaborn
+    - jupyter
+    - tqdm
+    - tensorflow
+    - tensorflow-gpu
+    - keras
+    - pandas
+    - pillow
+    - scikit-image

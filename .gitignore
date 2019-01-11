@@ -1,0 +1,10 @@
+data/
+.ipynb_checkpoints/
+.floydexpt
+.floydignore
+*.pkl
+result/
+images_mnist/
+images_cifar10/
+*.h5
+__pycache__/
