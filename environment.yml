@@ -9,6 +9,7 @@ dependencies:
     - seaborn
     - jupyter
     - tqdm
+    - scikit-learn
     - tensorflow
     - tensorflow-gpu
     - keras
